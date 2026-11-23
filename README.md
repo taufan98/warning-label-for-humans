@@ -23,7 +23,7 @@ cat out/entry.txt
 ```
 
 Python 3.13, standard library only, no install and no build step.
-`main.py` writes `entry.txt` (109 characters, within the 1–160 gate) and
+`main.py` writes `entry.txt` (108 characters, within the 1–160 gate) and
 nothing else.
 
 ## Layout
