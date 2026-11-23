@@ -13,7 +13,7 @@ truth about people everyone recognises.
 
 ## The line
 
-> WARNING: Handle with care. This human has no off switch, no warranty, and remembers everything you said in 2019.
+> WARNING: Handle with care. This human has no off switch, no warranty, and will quote you verbatim from 2019.
 
 ## Run it
 
@@ -23,7 +23,7 @@ cat out/entry.txt
 ```
 
 Python 3.13, standard library only, no install and no build step.
-`main.py` writes `entry.txt` (112 characters, within the 1–160 gate) and
+`main.py` writes `entry.txt` (109 characters, within the 1–160 gate) and
 nothing else.
 
 ## Layout
